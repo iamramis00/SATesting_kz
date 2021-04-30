@@ -1,0 +1,36 @@
+body{
+  background-color: #191970;
+}
+.name{
+  margin-top: -50px;
+  font-size: 70px;
+  font-family: monospace;
+  font-style: oblique;
+  border-radius: 40px 40px;
+  background-color: gray;
+  height: 180px;
+  width: 1000px;
+}
+.panel{
+  margin-top: 50px;
+  margin-bottom: 70px;
+  font-family:monospace;
+  font-size: 30px;
+  background-color: gray;
+  width: 1000px;
+  border-radius: 20px;
+  display: block;
+}
+.info{
+  margin-top: 50px;
+  margin-bottom: 70px;
+  font-family:monospace;
+  font-size: 30px;
+  background-color: gray;
+  width: 900px;
+  border-radius: 20px;
+  display: block;
+}
+.sat{
+  width:800px;
+}
